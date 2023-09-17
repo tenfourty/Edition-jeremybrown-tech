@@ -4,3 +4,4 @@ yarn.lock
 dist/edition-jeremybrown-tech.zip
 assets/built/*
 .sync-exclude.lst
+assets/built/screen.css
