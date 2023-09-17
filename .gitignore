@@ -2,9 +2,5 @@ node_modules
 .DS_Store
 yarn.lock
 dist/edition-jeremybrown-tech.zip
-assets/built/screen.css.map
-dist/edition.zip
-assets/built/screen.css.map
+assets/built/*
 .sync-exclude.lst
-assets/built/screen.css.map
-assets/built/screen.css.map
